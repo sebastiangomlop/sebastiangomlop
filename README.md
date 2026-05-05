@@ -67,6 +67,9 @@ Optical transmission in telecommunications. Supabase storage, windsurf
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/sebastiangomlop/sebastiangomlop)
+
   
 
 <br/>  
@@ -107,5 +110,3 @@ If things goes well, this section should automatically be replaced by a list of 
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/sebastiangomlop/sebastiangomlop)
