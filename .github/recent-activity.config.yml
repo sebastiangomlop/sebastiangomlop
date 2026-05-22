@@ -1,7 +1,0 @@
-settings:
-  username: sebastiangomlop
-  commit_msg: 'Updated with recent activity'
-  max_lines: 10
-  readme_file: README.md
-  date:
-    text_format: '%b %d, %Y %H:%M:%S'
