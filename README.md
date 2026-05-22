@@ -42,9 +42,6 @@ Optical transmission in telecommunications. Supabase storage, windsurf
 4. ❌ Merged PR [#9](https://github.com/sebastiangomlop/miPrimerRepo/pull/9) in [sebastiangomlop/miPrimerRepo](https://github.com/sebastiangomlop/miPrimerRepo)
 5. 💪 Opened PR [#9](https://github.com/sebastiangomlop/miPrimerRepo/pull/9) in [sebastiangomlop/miPrimerRepo](https://github.com/sebastiangomlop/miPrimerRepo)
 <!--END_SECTION:activity-->
-<!--RECENT_ACTIVITY:last_5-->
-<!--RECENT_ACTIVITY:end--> 
-
 
 
 ### Backend  
