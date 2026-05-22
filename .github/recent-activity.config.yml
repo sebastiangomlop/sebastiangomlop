@@ -1,0 +1,6 @@
+settings:
+  username: sebastiangomlop
+  readme_file: ./README.md
+  max_lines: 10
+  disabled_events:
+    - comments
