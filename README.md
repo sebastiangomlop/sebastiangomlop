@@ -32,7 +32,12 @@ Optical transmission in telecommunications. Supabase storage, windsurf
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="33%">A
+
+## Recent Activity
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_5-->
+<!--RECENT_ACTIVITY:end--> 
 
 
 
