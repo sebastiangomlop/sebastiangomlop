@@ -35,7 +35,7 @@ Optical transmission in telecommunications. Supabase storage, windsurf
 </td><td valign="top" width="33%">A
 
 ## Recent Activity
-<!--RECENT_ACTIVITY:start-->
+<!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:last_5-->
 <!--RECENT_ACTIVITY:end--> 
 
