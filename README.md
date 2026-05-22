@@ -70,8 +70,6 @@ Optical transmission in telecommunications. Supabase storage, windsurf
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/sebastiangomlop/sebastiangomlop)
 
-  
-
 <br/>  
 
 
