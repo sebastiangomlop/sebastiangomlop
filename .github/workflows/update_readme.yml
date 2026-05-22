@@ -7,11 +7,12 @@ jobs:
   build:
     name: Update this repo's README with recent activity
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
+      - uses: actions/checkout@v4
 
-      -uses: sebastiangomlop/github-activity-readme@v0.4.0
-        
-      env:
+      - uses: jamesgeorge007/github-activity-readme@v0.4.0
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        
